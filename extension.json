@@ -1,0 +1,21 @@
+{
+  "name": {
+    "en": "Whether the procedure is accelerated",
+    "sq": "Nëse procedura është përshpejtuar"
+  },
+  "description": {
+    "en": "The minimum time period between the publicaiton of a tender notice and the deadline for accepting bids expressed in boolean values.",
+    "sq": "Periudha minimale kohore ndërmjet publikimit të një njoftimi të tenderit dhe afatit për pranimin e ofertave të shprehura në vlera boolean."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/leobaz/ocds_isAcceleratedProcedure_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "codelists": [],
+  "compatibility": [
+    "1.1"
+  ],
+  "dependencies": []
+}

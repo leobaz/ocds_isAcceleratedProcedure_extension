@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "procedure": {
+            "title": "Procedure",
+            "description": "Procedure to be checked whether is accelerated",
+            "type": "string",
+            "properties": {
+                "isAcceleratedProcedure": {
+                    "title": "Accelerated procedure",
+                    "description": "Is the procedure accelerated",
+                    "type": "boolean"
+                }
+            }
+        }
+    }
+}
